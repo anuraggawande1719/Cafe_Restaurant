@@ -33,7 +33,7 @@ To run the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/python-restaurant-menu.git
+    git clone https://github.com/anuraggawande1719/Cafe_Restaurant.git
     cd python-restaurant-menu
     ```
 
