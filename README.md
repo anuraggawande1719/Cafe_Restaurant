@@ -56,11 +56,12 @@ menu = {
     "Burger": 60,
     "Salad": 70,
     "Coffee": 80,
+    "VadaPav": 30
 }
 
 # Greet the user and display the menu
 print("Welcome to PYTHON Restaurant")
-print("Pizza: Rs40\nPasta: Rs50\nBurger: Rs60\nSalad: Rs70\nCoffee: Rs80")
+print("Pizza: Rs40\nPasta: Rs50\nBurger: Rs60\nSalad: Rs70\nCoffee: Rs80\VadaPav: Rs30")
 
 order_total = 0
 
